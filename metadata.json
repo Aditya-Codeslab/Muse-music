@@ -1,0 +1,6 @@
+{
+  "name": "Muse Music",
+  "description": "A sleek Apple Music inspired streaming web app featuring real audio playback, dynamic queue, library management, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
