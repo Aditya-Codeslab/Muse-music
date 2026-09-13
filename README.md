@@ -11,3 +11,6 @@ Welcome to "Muse Music", a modern, feature-rich web music player designed with a
 • 📜 Time-synced lyrics display
 
 • ⌨️ Global keyboard shortcuts for seamless control
+
+URl-
+https://muse-music-drab.vercel.app/
