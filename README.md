@@ -1,1 +1,7 @@
-Muse Music is a modern web music player that takes inspiration from Apple Music's clean aesthetic, while also introducing refined UI components, improved navigation, and customized user playback features. It's built with React, TypeScript, and features real audio playback and dynamic queue management.
+Welcome to "Muse Music*", a modern, feature-rich web music player designed with a sleek aesthetic inspired by Apple Music.
+✨ Key Features
+• 🚀 Built with React and TypeScript
+• 🎧 Real audio playback and dynamic queue management
+• 🎨 Refined UI components and smooth transitions
+• 📜 Time-synced lyrics display
+• ⌨️ Global keyboard shortcuts for seamless control
